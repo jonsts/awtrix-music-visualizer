@@ -88,7 +88,11 @@ def _remove_macos() -> int:
 # ---------------------------------------------------------------------------
 
 def _install_windows() -> int:
+    # Use pythonw.exe (no console window) instead of python.exe.
     python = sys.executable
+    pythonw = str(Path(python).with_name("pythonw.exe"))
+    if Path(pythonw).exists():
+        python = pythonw
     config = PROJECT_DIR / "config.toml"
 
     xml = f"""\
