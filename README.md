@@ -78,6 +78,9 @@ python -m visualizer
 Stop with `Ctrl+C`; the display is cleared on exit. A web control panel starts
 at <http://localhost:8888> (disable with `--no-web`, change port with `--port`).
 
+<img width="557" height="826" alt="image" src="https://github.com/user-attachments/assets/fb1a2225-670b-4fcb-8824-9e749b1421b5" />
+
+
 To keep the visualizer pinned on screen instead of cycling through apps, disable
 auto-transition on the clock (Settings: `ATRANS = false`).
 
