@@ -87,17 +87,18 @@ Set `render.mode` in config, switch live in the web UI, or cycle with the clock'
 right button.
 
 | Mode | Description |
-| ---- | ----------- |
-| `draw` | Vertical spectrum bars with peak-hold dots <img width="300" alt="rainbow" src="https://github.com/user-attachments/assets/0348ae90-ddfb-4cef-b588-a71dcecbca17" />
- |
-| `horizontal` | Bars growing outward from the center, one row per band |
-| `ltr` | Horizontal bars growing left to right, one row per band |
-| `waves` | Joy Division / *Unknown Pleasures* scrolling waveform landscape |
-| `mario` | Super Mario overworld — green pipes, sky, ground, clouds |
-| `mario_underground` | Mario underground — teal blocks on black, gold question block |
-| `dancer` | A stick figure that dances and walks across the screen on the beat |
-| `fractal` | Audio-reactive plasma or Julia set (`fractal_type`) |
+| :--- | :--- |
+| `draw` | Vertical spectrum bars with peak-hold dots <br> <img src="https://github.com/user-attachments/assets/6f94217b-5bb0-4d03-bc1b-739c411d3648" width="300" alt="rainbow"> |
+| `horizontal` | Bars growing outward from the center, one row per band <br> <img src="https://github.com/user-attachments/assets/88368603-a082-4282-816b-7684bdcf09fe" width="300" alt="horizontal"> |
+| `ltr` | Horizontal bars growing left to right, one row per band <br> <img src="https://github.com/user-attachments/assets/fd5a374b-aa2e-44dd-8a9c-7745c3481184" width="300" alt="ltr"> | 
+| `waves` | Joy Division / *Unknown Pleasures* scrolling waveform landscape <br> <img src="https://github.com/user-attachments/assets/ad9bffe8-5b0d-4efb-96c4-6b3175b2ac99" width="300" alt="joy division"> |
+| `mario` | Super Mario overworld – green pipes, sky, ground, clouds <br> <img src="https://github.com/user-attachments/assets/f879e4a8-f520-42c7-a5b8-5ff032c7ad63" width="300" alt="mario overworld"> |
+| `mario_underground` | Mario underground – teal blocks on black, gold question block <br> <img src="https://github.com/user-attachments/assets/8704d2af-4956-4e2b-8560-4c930141fdd" width="300" alt="mario underground"> |
+| `dancer` | A stick figure that dances and walks across the screen on the beat <br> <img src="https://github.com/user-attachments/assets/d656fe3e-2b61-4a4c-b66b-7c2018c4b25a" width="300" alt="dancer"> |
+| `fractal` | Audio-reactive plasma or Julia set (`fractal_type`) <br> <img src="https://github.com/user-attachments/assets/b0bd7cd6-432d-49e9-91e7-0a798e718ed0" width="300" alt="fractal"> |
 | `bar` | AWTRIX's built-in bar graph (simple, max 16 bands) |
+
+
 
 ## Color schemes
 
