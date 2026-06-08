@@ -85,6 +85,7 @@ auto-transition on the clock (Settings: `ATRANS = false`).
 
 Set `render.mode` in config, switch live in the web UI, or cycle with the clock's
 right button.
+<img width="1052" height="260" alt="mario2" src="" />
 
 | Mode | Description |
 | :--- | :--- |
@@ -93,7 +94,7 @@ right button.
 | `ltr` | Horizontal bars growing left to right, one row per band <br> <img src="https://github.com/user-attachments/assets/fd5a374b-aa2e-44dd-8a9c-7745c3481184" width="300" alt="ltr"> | 
 | `waves` | Joy Division / *Unknown Pleasures* scrolling waveform landscape <br> <img src="https://github.com/user-attachments/assets/ad9bffe8-5b0d-4efb-96c4-6b3175b2ac99" width="300" alt="joy division"> |
 | `mario` | Super Mario overworld – green pipes, sky, ground, clouds <br> <img src="https://github.com/user-attachments/assets/f879e4a8-f520-42c7-a5b8-5ff032c7ad63" width="300" alt="mario overworld"> |
-| `mario_underground` | Mario underground – teal blocks on black, gold question block <br> <img src="https://github.com/user-attachments/assets/8704d2af-4956-4e2b-8560-4c930141fdd" width="300" alt="mario underground"> |
+| `mario_underground` | Mario underground – teal blocks on black, gold question block <br> <img src="https://github.com/user-attachments/assets/6b66f116-3bc4-413c-a725-63778ea76305" width="300" alt="mario underground"> |
 | `dancer` | A stick figure that dances and walks across the screen on the beat <br> <img src="https://github.com/user-attachments/assets/d656fe3e-2b61-4a4c-b66b-7c2018c4b25a" width="300" alt="dancer"> |
 | `fractal` | Audio-reactive plasma or Julia set (`fractal_type`) <br> <img src="https://github.com/user-attachments/assets/b0bd7cd6-432d-49e9-91e7-0a798e718ed0" width="300" alt="fractal"> |
 | `bar` | AWTRIX's built-in bar graph (simple, max 16 bands) |
