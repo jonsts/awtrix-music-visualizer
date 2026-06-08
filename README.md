@@ -5,6 +5,13 @@ Real-time music visualizer for the **Ulanzi TC001** smart clock running AWTRIX 3
 Your PC captures the audio, runs an FFT, maps it to frequency bands, and streams
 frames to the clock's 32x8 RGB matrix over HTTP or MQTT.
 
+
+
+https://github.com/user-attachments/assets/a4b555e2-87de-4772-aaa3-3da5b9e66836
+
+
+
+
 ```
 PC (capture audio -> FFT -> bands -> color) --HTTP/MQTT--> TC001 (renders frame)
 ```
