@@ -88,7 +88,7 @@ right button.
 
 | Mode | Description |
 | ---- | ----------- |
-| `draw` | Vertical spectrum bars with peak-hold dots <img width="1052" height="260" alt="rainbow" src="https://github.com/user-attachments/assets/0348ae90-ddfb-4cef-b588-a71dcecbca17" />
+| `draw` | Vertical spectrum bars with peak-hold dots <img width="300" alt="rainbow" src="https://github.com/user-attachments/assets/0348ae90-ddfb-4cef-b588-a71dcecbca17" />
  |
 | `horizontal` | Bars growing outward from the center, one row per band |
 | `ltr` | Horizontal bars growing left to right, one row per band |
